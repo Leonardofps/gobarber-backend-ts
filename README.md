@@ -7,7 +7,7 @@
 
 ## 💻 Sobre o projeto
 
-O projeto consiste em um serviço de agendamento de clientes a uma barbearia, onde é possível realizar a escolha do barbeiro, junto a hora disponível de atendimento pelo mesmo.
+O projeto consiste no back-end de um serviço de agendamento de clientes a uma barbearia, onde é possível realizar a escolha do barbeiro, junto a hora disponível de atendimento pelo mesmo.
 
 Foi um projeto desenvolvido para entrega final da certificação GoStack, proporcionado pela 🚀RocketSeat, onde é realizado um curso imersivo onde os alunos aprendem como trabalhar com ferramentas como Node.Js, ReactJs e React Native.
 
